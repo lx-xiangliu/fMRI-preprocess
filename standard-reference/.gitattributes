@@ -1,0 +1,2 @@
+# Raw execution logs retain exact emitted whitespace.
+*.log -whitespace

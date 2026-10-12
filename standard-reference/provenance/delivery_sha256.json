@@ -289,5 +289,6 @@
   "scripts/run_notebooks.py": "4eddf8eba46f39904f900c6e43f66f66cf246146e55406f837b963bcd25762c0",
   "tests/test_core.py": "136ba61624e09d4b13644bf0c809110b96a3859eb3975e4323905ec53bc138bf",
   "tests/test_pipelines.py": "a12b6d0a9671427adf4c9d64bbfd4737140261bc9edb89323759f29fe6bc4d82",
-  "tests/test_streaming.py": "da1666cf0e27b2f6395a93b600d339830c7f64ef335aca13930f24db09c61bf7"
+  "tests/test_streaming.py": "da1666cf0e27b2f6395a93b600d339830c7f64ef335aca13930f24db09c61bf7",
+  ".gitattributes": "d7139d65d3ec9ad3ab2ce43995da959c67a6842806f0fa183750b6989906bfcc"
 }
