@@ -22,3 +22,14 @@ The small functions in `src/` are auditable implementations of the stated equati
 ## 本小类映射
 
 推荐先阅读 BIDS、NiBabel 和 fMRIPrep 的相关章节，再根据数据条件选择本函数 `coordinate_report`。该函数不替代完整 fMRIPrep/FSL/AFNI 工作流。
+
+## Verified upstream source snapshots (queried 2026-10-12)
+
+These hashes are the upstream `HEAD` values returned by `git ls-remote` on the query date, not historical release pins. Pin a tagged release or vendor a commit before production use.
+
+- fMRIPrep: `21a490fb89acee54baca06dd0ca04a2297659e97` — https://github.com/nipreps/fmriprep
+- Nilearn: `c5f6c737c8fc610ceba5f3aaa797695a3e6476a5` — https://github.com/nilearn/nilearn
+- NiBabel: `2f7c14298ab8f5cea66d0f2f89cd38eff6b3438c` — https://github.com/nipy/nibabel
+- MRIQC: `f61290947f6aa79e143e38e314bfd63c09d7384f` — https://github.com/nipreps/mriqc
+- tedana: `1f433185fec67af2ef32529f3ac2b2ce5c9cbc90` — https://github.com/ME-ICA/tedana
+- AFNI: `929a3750851dcc26df4d3f73ec036095f04233a8` — https://github.com/afni/afni

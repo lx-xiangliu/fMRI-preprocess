@@ -4,7 +4,7 @@
 
 ## 统一数据集
 
-Few-shot 默认使用 OpenNeuro `ds000114`（Faces，BIDS；包含功能 MRI、结构 MRI 和行为/刺激相关信息，具体模态与许可应以下载目录中的 `dataset_description.json` 和 README 为准）。官方下载入口：<https://openneuro.org/ds000114>；S3 入口：`s3://openneuro.org/ds000114`。下载后设置 `FMRI_BIDS_ROOT=/path/to/ds000114`。
+Few-shot 默认使用 OpenNeuro `ds000114`（motor/language/spatial-attention test-retest，BIDS；包含功能 MRI、结构 MRI、DWI 和任务事件信息，具体模态与许可应以下载目录中的 `dataset_description.json` 和 README 为准）。官方下载入口：<https://openneuro.org/ds000114>；S3 入口：`s3://openneuro.org/ds000114`。下载后设置 `FMRI_BIDS_ROOT=/path/to/ds000114`。
 
 ## 安装与运行
 
