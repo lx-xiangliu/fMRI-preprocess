@@ -1,6 +1,9 @@
-__pycache__/
+data/
+**/__pycache__/
 *.pyc
 .ipynb_checkpoints/
-data/
-*.nii
-*.nii.gz
+.pytest_cache/
+*.egg-info/
+**/results/*.nii.gz
+**/results/cache/
+.DS_Store

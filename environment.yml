@@ -1,0 +1,23 @@
+name: fmri-ref
+channels: [conda-forge]
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - numpy==2.2.6
+      - scipy==1.15.3
+      - pandas==2.3.3
+      - nibabel==5.4.2
+      - nilearn==0.14.1
+      - antspyx==0.6.3
+      - neurokit2==0.2.13
+      - templateflow==25.1.2
+      - scikit-learn==1.9.1
+      - statsmodels==0.15.0
+      - matplotlib==3.11.2
+      - jupyter
+      - nbconvert
+      - nbformat
+      - ipykernel
+      - pytest
+      - -e ./common
