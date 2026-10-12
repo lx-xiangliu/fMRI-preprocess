@@ -1,0 +1,47 @@
+{
+  "input": "data/ds000114/sub-01/ses-test/func/sub-01_ses-test_task-fingerfootlips_bold.nii.gz",
+  "session": "test",
+  "kind": "physio",
+  "tr_seconds": 2.5,
+  "n_input": 184,
+  "feature_scope": "128 deterministic voxels from estimated EPI mask, not full brain",
+  "before": {
+    "shape": [
+      184,
+      128
+    ],
+    "mean_abs": 1195.394276494565,
+    "median_sample_std": 48.296438755295526,
+    "q01": 266.0,
+    "q99": 1743.4700000000048
+  },
+  "production_pipeline": "NOT_RUN",
+  "scientific_best_method": "INSUFFICIENT_EVIDENCE",
+  "pca_explained_variance_ratio": [
+    0.38414110674691265,
+    0.12643222237890633,
+    0.04696308878094678,
+    0.04049995113779918,
+    0.03331184621191034
+  ],
+  "pca_scope": "Illustrative BRAIN signals, NOT validated noise ROI",
+  "neural_noise_labels": "NOT_AVAILABLE",
+  "denoising": "NOT_RUN",
+  "physiological_recordings": "MISSING",
+  "retroicor": "NOT_RUN",
+  "after": {
+    "shape": [
+      184,
+      128
+    ],
+    "mean_abs": 1195.394276494565,
+    "median_sample_std": 48.296438755295526,
+    "q01": 266.0,
+    "q99": 1743.4700000000048
+  },
+  "evidence_status": "REAL_DATA_DECOMPOSITION_ONLY",
+  "limitations": [
+    "Required scientific inputs absent; no component was removed. See supplemental dataset manifest."
+  ],
+  "elapsed_seconds": 2.3642525839968584
+}

@@ -1,0 +1,18 @@
+{
+  "repository": "ANTsX/ANTs",
+  "url": "https://github.com/ANTsX/ANTs",
+  "retrieved_utc": "2026-10-12T12:18:28Z",
+  "execution": "NOT_RUN",
+  "commit": "4da25673be4a6f54831138aaf11329d0189bd5a0",
+  "default_branch": "main",
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "license_path": "COPYING.txt",
+  "latest_release": "v2.6.5",
+  "status": "METADATA_VERIFIED"
+}

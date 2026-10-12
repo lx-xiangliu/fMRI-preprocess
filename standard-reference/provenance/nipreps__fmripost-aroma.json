@@ -1,0 +1,18 @@
+{
+  "repository": "nipreps/fmripost-aroma",
+  "url": "https://github.com/nipreps/fmripost-aroma",
+  "retrieved_utc": "2026-10-12T12:18:30Z",
+  "execution": "NOT_RUN",
+  "commit": "96a89a22b5213dfb7c7fb4f5c21d2c03fe835819",
+  "default_branch": "main",
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "license_path": "LICENSE",
+  "latest_release": "0.0.12",
+  "status": "METADATA_VERIFIED"
+}

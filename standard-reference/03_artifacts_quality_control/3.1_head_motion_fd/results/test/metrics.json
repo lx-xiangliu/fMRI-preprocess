@@ -1,0 +1,38 @@
+{
+  "input": "data/ds000114/sub-01/ses-test/func/sub-01_ses-test_task-fingerfootlips_bold.nii.gz",
+  "session": "test",
+  "kind": "motion",
+  "tr_seconds": 2.5,
+  "n_input": 184,
+  "feature_scope": "128 deterministic voxels from estimated EPI mask, not full brain",
+  "before": {
+    "shape": [
+      184,
+      128
+    ],
+    "mean_abs": 1195.394276494565,
+    "median_sample_std": 48.296438755295526,
+    "q01": 266.0,
+    "q99": 1743.4700000000048
+  },
+  "production_pipeline": "NOT_RUN",
+  "scientific_best_method": "INSUFFICIENT_EVIDENCE",
+  "fd": "NOT_MEASURED",
+  "motion_parameters": "MISSING",
+  "raw_dvars_median": 23.27367745973979,
+  "after": {
+    "shape": [
+      184,
+      128
+    ],
+    "mean_abs": 1195.394276494565,
+    "median_sample_std": 48.296438755295526,
+    "q01": 266.0,
+    "q99": 1743.4700000000048
+  },
+  "evidence_status": "REAL_DATA_DIAGNOSTIC_ONLY",
+  "limitations": [
+    "No MCFLIRT/3dvolreg output: no measured FD, no motion exclusion decision."
+  ],
+  "elapsed_seconds": 0.8759810409974307
+}

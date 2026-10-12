@@ -1,0 +1,23 @@
+[
+  {
+    "name": "mcflirt",
+    "execution": "NOT_RUN",
+    "installed_version": "NOT_INSTALLED",
+    "status": "FAILED",
+    "error": "429 Client Error: Too Many Requests for url: https://git.fmrib.ox.ac.uk/api/v4/projects?search=mcflirt"
+  },
+  {
+    "name": "flirt",
+    "execution": "NOT_RUN",
+    "installed_version": "NOT_INSTALLED",
+    "status": "FAILED",
+    "error": "429 Client Error: Too Many Requests for url: https://git.fmrib.ox.ac.uk/api/v4/projects?search=flirt"
+  },
+  {
+    "name": "fnirt",
+    "execution": "NOT_RUN",
+    "installed_version": "NOT_INSTALLED",
+    "status": "FAILED",
+    "error": "429 Client Error: Too Many Requests for url: https://git.fmrib.ox.ac.uk/api/v4/projects?search=fnirt"
+  }
+]

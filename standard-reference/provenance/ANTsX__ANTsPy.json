@@ -1,0 +1,18 @@
+{
+  "repository": "ANTsX/ANTsPy",
+  "url": "https://github.com/ANTsX/ANTsPy",
+  "retrieved_utc": "2026-10-12T12:18:29Z",
+  "execution": "NOT_RUN",
+  "commit": "01a50724d8db48f8d58c24483160add1c9447f6b",
+  "default_branch": "main",
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "license_path": "LICENSE",
+  "latest_release": "v0.6.3",
+  "status": "METADATA_VERIFIED"
+}

@@ -1,0 +1,38 @@
+{
+  "input": "data/ds000114/sub-01/ses-test/func/sub-01_ses-test_task-fingerfootlips_bold.nii.gz",
+  "session": "test",
+  "kind": "tr",
+  "tr_seconds": 2.5,
+  "n_input": 184,
+  "feature_scope": "128 deterministic voxels from estimated EPI mask, not full brain",
+  "before": {
+    "shape": [
+      184,
+      128
+    ],
+    "mean_abs": 1195.394276494565,
+    "median_sample_std": 48.296438755295526,
+    "q01": 266.0,
+    "q99": 1743.4700000000048
+  },
+  "production_pipeline": "NOT_RUN",
+  "scientific_best_method": "INSUFFICIENT_EVIDENCE",
+  "tr_out_seconds": 3.0,
+  "n_output": 153,
+  "output_span_seconds": 456.0,
+  "nyquist_before_hz": 0.2,
+  "nyquist_after_hz": 0.16666666666666666,
+  "after": {
+    "shape": [
+      153,
+      128
+    ],
+    "mean_abs": 1195.548734814652,
+    "median_sample_std": 48.10294945420145,
+    "q01": 267.13542370544326,
+    "q99": 1746.529292980687
+  },
+  "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+  "limitations": [],
+  "elapsed_seconds": 1.2456156249972992
+}

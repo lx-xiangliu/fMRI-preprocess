@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "fmri-preprocess-reference"
+version = "0.1.0"
+requires-python = ">=3.12,<3.13"
+description = "Auditable fMRI preprocessing teaching and reusable primitives"
+dependencies = ["numpy", "scipy", "nibabel", "nilearn", "matplotlib", "SimpleITK"]
+[project.optional-dependencies]
+demo = ["nbformat", "nbclient", "ipykernel", "pytest", "requests"]
+[tool.setuptools.packages.find]
+include = ["fmri_reference*"]
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests", "01_spatial_inconsistency", "02_temporal_inconsistency", "03_artifacts_quality_control", "04_signal_scale_inconsistency"]

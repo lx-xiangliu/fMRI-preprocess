@@ -1,0 +1,18 @@
+{
+  "repository": "nipy/nibabel",
+  "url": "https://github.com/nipy/nibabel",
+  "retrieved_utc": "2026-10-12T12:18:27Z",
+  "execution": "NOT_RUN",
+  "commit": "2f7c14298ab8f5cea66d0f2f89cd38eff6b3438c",
+  "default_branch": "master",
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": "NOASSERTION",
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "license_path": "COPYING",
+  "latest_release": "5.4.1",
+  "status": "METADATA_VERIFIED"
+}

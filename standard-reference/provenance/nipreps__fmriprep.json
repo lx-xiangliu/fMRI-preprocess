@@ -1,0 +1,18 @@
+{
+  "repository": "nipreps/fmriprep",
+  "url": "https://github.com/nipreps/fmriprep",
+  "retrieved_utc": "2026-10-12T12:18:27Z",
+  "execution": "NOT_RUN",
+  "commit": "21a490fb89acee54baca06dd0ca04a2297659e97",
+  "default_branch": "master",
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "license_path": "LICENSE",
+  "latest_release": "25.2.5",
+  "status": "METADATA_VERIFIED"
+}

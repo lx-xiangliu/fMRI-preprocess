@@ -1,0 +1,162 @@
+[
+  {
+    "path": "dataset_description.json",
+    "git_tree": "6299834614e9ae7df1e2fc5922545331b5c7f022",
+    "metadata_url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds000114/6299834614e9ae7df1e2fc5922545331b5c7f022/dataset_description.json",
+    "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds000114/6299834614e9ae7df1e2fc5922545331b5c7f022/dataset_description.json",
+    "bytes": 684,
+    "sha256": "5a4b7bd031bbf57fdab310b99d2327f7338e285baad42f953a59d9c9c4d5df33",
+    "status": "DOWNLOADED_AND_VALIDATED"
+  },
+  {
+    "path": "participants.tsv",
+    "git_tree": "6299834614e9ae7df1e2fc5922545331b5c7f022",
+    "metadata_url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds000114/6299834614e9ae7df1e2fc5922545331b5c7f022/participants.tsv",
+    "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds000114/6299834614e9ae7df1e2fc5922545331b5c7f022/participants.tsv",
+    "bytes": 167,
+    "sha256": "e52bac58fe46586e2d2a00d7506055e893650b12b4e2557bfc7caadc25475b8d",
+    "status": "DOWNLOADED_AND_VALIDATED"
+  },
+  {
+    "path": "task-fingerfootlips_bold.json",
+    "git_tree": "6299834614e9ae7df1e2fc5922545331b5c7f022",
+    "metadata_url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds000114/6299834614e9ae7df1e2fc5922545331b5c7f022/task-fingerfootlips_bold.json",
+    "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds000114/6299834614e9ae7df1e2fc5922545331b5c7f022/task-fingerfootlips_bold.json",
+    "bytes": 899,
+    "sha256": "9fd44f65a772e05282c20bdfa2a9775e02f9a7f562c5c96bbf4fd30632540355",
+    "status": "DOWNLOADED_AND_VALIDATED"
+  },
+  {
+    "path": "task-fingerfootlips_events.tsv",
+    "git_tree": "6299834614e9ae7df1e2fc5922545331b5c7f022",
+    "metadata_url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds000114/6299834614e9ae7df1e2fc5922545331b5c7f022/task-fingerfootlips_events.tsv",
+    "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds000114/6299834614e9ae7df1e2fc5922545331b5c7f022/task-fingerfootlips_events.tsv",
+    "bytes": 280,
+    "sha256": "32d8e344b7156fcb275d20a50f7662b42cfce8451a85a6d7c92b5b8e946ebd0c",
+    "status": "DOWNLOADED_AND_VALIDATED"
+  },
+  {
+    "path": "dwi.bval",
+    "git_tree": "6299834614e9ae7df1e2fc5922545331b5c7f022",
+    "metadata_url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds000114/6299834614e9ae7df1e2fc5922545331b5c7f022/dwi.bval",
+    "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds000114/6299834614e9ae7df1e2fc5922545331b5c7f022/dwi.bval",
+    "bytes": 335,
+    "sha256": "4b15b7c6463627808d623350ee271c72c9784bea0867c12133f5bda7564eee08",
+    "status": "DOWNLOADED_AND_VALIDATED"
+  },
+  {
+    "path": "dwi.bvec",
+    "git_tree": "6299834614e9ae7df1e2fc5922545331b5c7f022",
+    "metadata_url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds000114/6299834614e9ae7df1e2fc5922545331b5c7f022/dwi.bvec",
+    "url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds000114/6299834614e9ae7df1e2fc5922545331b5c7f022/dwi.bvec",
+    "bytes": 1248,
+    "sha256": "c32acef3cf9cf6df85a30e96b7cfca0ddd0da872b3e0c080d6b6d341a47d91ee",
+    "status": "DOWNLOADED_AND_VALIDATED"
+  },
+  {
+    "path": "sub-01/ses-test/func/sub-01_ses-test_task-fingerfootlips_bold.nii.gz",
+    "git_tree": "6299834614e9ae7df1e2fc5922545331b5c7f022",
+    "metadata_url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds000114/6299834614e9ae7df1e2fc5922545331b5c7f022/sub-01/ses-test/func/sub-01_ses-test_task-fingerfootlips_bold.nii.gz",
+    "annex_pointer": "../../../.git/annex/objects/k6/4f/MD5E-s24454931--e9ab535d84a922b0c7ed52461244cf47.nii.gz/MD5E-s24454931--e9ab535d84a922b0c7ed52461244cf47.nii.gz",
+    "annex_hash_type": "MD5E",
+    "annex_hash": "e9ab535d84a922b0c7ed52461244cf47",
+    "url": "https://s3.amazonaws.com/openneuro.org/ds000114/sub-01/ses-test/func/sub-01_ses-test_task-fingerfootlips_bold.nii.gz?versionId=yUQXiEXFB0BTuvBj_SR16zQPCYdkbVXH",
+    "version_id": "yUQXiEXFB0BTuvBj_SR16zQPCYdkbVXH",
+    "etag": "\"e9ab535d84a922b0c7ed52461244cf47\"",
+    "expected_bytes": 24454931,
+    "bytes": 24454931,
+    "sha256": "34f88f0e79f0ea57b8449f3e359ea9cb89608317c295d93389847eb44c203319",
+    "shape": [
+      64,
+      64,
+      30,
+      184
+    ],
+    "zooms": [
+      4.0,
+      4.0,
+      3.9999749660491943,
+      2.5
+    ],
+    "status": "DOWNLOADED_AND_VALIDATED"
+  },
+  {
+    "path": "sub-01/ses-retest/func/sub-01_ses-retest_task-fingerfootlips_bold.nii.gz",
+    "git_tree": "6299834614e9ae7df1e2fc5922545331b5c7f022",
+    "metadata_url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds000114/6299834614e9ae7df1e2fc5922545331b5c7f022/sub-01/ses-retest/func/sub-01_ses-retest_task-fingerfootlips_bold.nii.gz",
+    "annex_pointer": "../../../.git/annex/objects/26/6j/MD5E-s23793248--327e42d440f0557105bf7c05a3b9f1e8.nii.gz/MD5E-s23793248--327e42d440f0557105bf7c05a3b9f1e8.nii.gz",
+    "annex_hash_type": "MD5E",
+    "annex_hash": "327e42d440f0557105bf7c05a3b9f1e8",
+    "url": "https://s3.amazonaws.com/openneuro.org/ds000114/sub-01/ses-retest/func/sub-01_ses-retest_task-fingerfootlips_bold.nii.gz?versionId=h_ackbFajrFL8Akfu6yK.VbGb0dAsU_A",
+    "version_id": "h_ackbFajrFL8Akfu6yK.VbGb0dAsU_A",
+    "etag": "\"327e42d440f0557105bf7c05a3b9f1e8\"",
+    "expected_bytes": 23793248,
+    "bytes": 23793248,
+    "sha256": "7df09e33999435d250185058aa6d187b13c7b84a1ec95ea0bb4d9741ae1f3c18",
+    "shape": [
+      64,
+      64,
+      30,
+      184
+    ],
+    "zooms": [
+      4.0,
+      4.0,
+      3.999964714050293,
+      2.5
+    ],
+    "status": "DOWNLOADED_AND_VALIDATED"
+  },
+  {
+    "path": "sub-01/ses-test/anat/sub-01_ses-test_T1w.nii.gz",
+    "git_tree": "6299834614e9ae7df1e2fc5922545331b5c7f022",
+    "metadata_url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds000114/6299834614e9ae7df1e2fc5922545331b5c7f022/sub-01/ses-test/anat/sub-01_ses-test_T1w.nii.gz",
+    "annex_pointer": "../../../.git/annex/objects/QP/jm/MD5E-s8677710--d6820f6cb8fb965e864419c14f6a22d5.nii.gz/MD5E-s8677710--d6820f6cb8fb965e864419c14f6a22d5.nii.gz",
+    "annex_hash_type": "MD5E",
+    "annex_hash": "d6820f6cb8fb965e864419c14f6a22d5",
+    "url": "https://s3.amazonaws.com/openneuro.org/ds000114/sub-01/ses-test/anat/sub-01_ses-test_T1w.nii.gz?versionId=mrf6fwt5fTAbROGNZn42vj.FPYjyvyvX",
+    "version_id": "mrf6fwt5fTAbROGNZn42vj.FPYjyvyvX",
+    "etag": "\"d6820f6cb8fb965e864419c14f6a22d5\"",
+    "expected_bytes": 8677710,
+    "bytes": 8677710,
+    "sha256": "2bbe4430223d9b9ce47d4dab3ff398a69fefbb481cbf3bd136e07f363a73919c",
+    "shape": [
+      256,
+      156,
+      256
+    ],
+    "zooms": [
+      1.0,
+      1.2993758916854858,
+      1.0
+    ],
+    "status": "DOWNLOADED_AND_VALIDATED"
+  },
+  {
+    "path": "sub-01/ses-test/dwi/sub-01_ses-test_dwi.nii.gz",
+    "git_tree": "6299834614e9ae7df1e2fc5922545331b5c7f022",
+    "metadata_url": "https://raw.githubusercontent.com/OpenNeuroDatasets/ds000114/6299834614e9ae7df1e2fc5922545331b5c7f022/sub-01/ses-test/dwi/sub-01_ses-test_dwi.nii.gz",
+    "annex_pointer": "../../../.git/annex/objects/X2/kJ/MD5E-s104193417--454850ac9ed1c96c40b6b7946e51bf71.nii.gz/MD5E-s104193417--454850ac9ed1c96c40b6b7946e51bf71.nii.gz",
+    "annex_hash_type": "MD5E",
+    "annex_hash": "454850ac9ed1c96c40b6b7946e51bf71",
+    "url": "https://s3.amazonaws.com/openneuro.org/ds000114/sub-01/ses-test/dwi/sub-01_ses-test_dwi.nii.gz?versionId=ktYF5wzEZZ9eVFEOIT.SjD67GM2qoxs8",
+    "version_id": "ktYF5wzEZZ9eVFEOIT.SjD67GM2qoxs8",
+    "etag": "\"454850ac9ed1c96c40b6b7946e51bf71\"",
+    "expected_bytes": 104193417,
+    "bytes": 104193417,
+    "sha256": "ac2944880fc5682bc3c5e80e36df95c337dad84df373e5631238531069e9019b",
+    "shape": [
+      128,
+      128,
+      72,
+      71
+    ],
+    "zooms": [
+      2.0,
+      2.0,
+      2.0,
+      16.5
+    ],
+    "status": "DOWNLOADED_AND_VALIDATED"
+  }
+]

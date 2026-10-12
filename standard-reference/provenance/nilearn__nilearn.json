@@ -1,0 +1,18 @@
+{
+  "repository": "nilearn/nilearn",
+  "url": "https://github.com/nilearn/nilearn",
+  "retrieved_utc": "2026-10-12T12:18:27Z",
+  "execution": "NOT_RUN",
+  "commit": "c5f6c737c8fc610ceba5f3aaa797695a3e6476a5",
+  "default_branch": "main",
+  "license": {
+    "key": "bsd-3-clause",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "spdx_id": "BSD-3-Clause",
+    "url": "https://api.github.com/licenses/bsd-3-clause",
+    "node_id": "MDc6TGljZW5zZTU="
+  },
+  "license_path": "LICENSE",
+  "latest_release": "0.14.1",
+  "status": "METADATA_VERIFIED"
+}

@@ -1,0 +1,18 @@
+{
+  "repository": "FCP-INDI/C-PAC",
+  "url": "https://github.com/FCP-INDI/C-PAC",
+  "retrieved_utc": "2026-10-12T12:18:33Z",
+  "execution": "NOT_RUN",
+  "commit": "96db8b0b65ab1d5f55fb3b895855af34d72c17e4",
+  "default_branch": "main",
+  "license": {
+    "key": "lgpl-3.0",
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx_id": "LGPL-3.0",
+    "url": "https://api.github.com/licenses/lgpl-3.0",
+    "node_id": "MDc6TGljZW5zZTEy"
+  },
+  "license_path": "COPYING",
+  "latest_release": "v1.8.7",
+  "status": "METADATA_VERIFIED"
+}
