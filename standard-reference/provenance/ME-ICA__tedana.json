@@ -1,0 +1,18 @@
+{
+  "repository": "ME-ICA/tedana",
+  "url": "https://github.com/ME-ICA/tedana",
+  "retrieved_utc": "2026-10-12T12:18:30Z",
+  "execution": "NOT_RUN",
+  "commit": "1f433185fec67af2ef32529f3ac2b2ce5c9cbc90",
+  "default_branch": "main",
+  "license": {
+    "key": "lgpl-2.1",
+    "name": "GNU Lesser General Public License v2.1",
+    "spdx_id": "LGPL-2.1",
+    "url": "https://api.github.com/licenses/lgpl-2.1",
+    "node_id": "MDc6TGljZW5zZTEx"
+  },
+  "license_path": "LICENSE",
+  "latest_release": "26.0.3",
+  "status": "METADATA_VERIFIED"
+}

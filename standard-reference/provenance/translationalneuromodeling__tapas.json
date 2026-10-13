@@ -1,0 +1,18 @@
+{
+  "repository": "translationalneuromodeling/tapas",
+  "url": "https://github.com/translationalneuromodeling/tapas",
+  "retrieved_utc": "2026-10-12T12:18:30Z",
+  "execution": "NOT_RUN",
+  "commit": "7155f99137c5e03f93a2a3afa6a8cb54c75dd4c2",
+  "default_branch": "master",
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "license_path": "LICENSE",
+  "latest_release": "v6.1.0",
+  "status": "METADATA_VERIFIED"
+}

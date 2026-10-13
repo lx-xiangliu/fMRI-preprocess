@@ -1,0 +1,53 @@
+{
+  "input": "data/ds000114/sub-01/ses-retest/func/sub-01_ses-retest_task-fingerfootlips_bold.nii.gz",
+  "session": "retest",
+  "kind": "registration",
+  "tr_seconds": 2.5,
+  "n_input": 184,
+  "feature_scope": "128 deterministic voxels from estimated EPI mask, not full brain",
+  "before": {
+    "shape": [
+      184,
+      128
+    ],
+    "mean_abs": 1188.474312160326,
+    "median_sample_std": 37.16732411570946,
+    "q01": 179.0,
+    "q99": 1848.0
+  },
+  "production_pipeline": "NOT_RUN",
+  "scientific_best_method": "INSUFFICIENT_EVIDENCE",
+  "registration": {
+    "metric": "mi",
+    "objective_before": -0.198585065351162,
+    "objective_after": -0.27746477606364456,
+    "optimizer_stop": "RegularStepGradientDescentOptimizerv4: Gradient magnitude tolerance met after 19 iterations. Gradient magnitude (7.89502e-05) is less than gradient magnitude tolerance (0.0001).",
+    "parameters_euler_lps": [
+      0.034985950191132195,
+      -0.02615949669184002,
+      -0.01347610556070774,
+      0.44152431217725013,
+      -3.5041433335169296,
+      10.166528333646923
+    ],
+    "fixed_to_moving_lps": true,
+    "clinical_registration_pass": "NOT_ASSESSED",
+    "seed": 42
+  },
+  "scan_exclusion": "REVIEW_REQUIRED",
+  "after": {
+    "shape": [
+      184,
+      128
+    ],
+    "mean_abs": 1188.474312160326,
+    "median_sample_std": 37.16732411570946,
+    "q01": 179.0,
+    "q99": 1848.0
+  },
+  "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+  "limitations": [
+    "No brain extraction/BBR/SDC. Objective change cannot authorize scan inclusion."
+  ],
+  "elapsed_seconds": 1.4206239160266705
+}

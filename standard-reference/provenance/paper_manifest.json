@@ -1,0 +1,252 @@
+[
+  {
+    "name": "dataset",
+    "url": "https://www.research.ed.ac.uk/files/8517189/A_test_retest_fMRI_dataset_for_motor_language_and_spatial_attention_functions.pdf",
+    "full_text_read": false,
+    "status": "FAILED",
+    "error": "403 Client Error: Forbidden for url: https://www.research.ed.ac.uk/files/8517189/A_test_retest_fMRI_dataset_for_motor_language_and_spatial_attention_functions.pdf"
+  },
+  {
+    "name": "compcor",
+    "url": "https://cfmriweb.ucsd.edu/tliu/pdf/behzadi07_compcor.pdf",
+    "full_text_read": false,
+    "status": "FAILED",
+    "error": "HTTPSConnectionPool(host='cfmriweb.ucsd.edu', port=443): Max retries exceeded with url: /tliu/pdf/behzadi07_compcor.pdf (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'cfmriweb.ucsd.edu'. (_ssl.c:1000)\")))"
+  },
+  {
+    "name": "physio",
+    "url": "https://www.tnu.ethz.ch/fileadmin/user_upload/documents/Publications/2017/2017_Kasper_Bollmann_Diaconescu_Hutton_Heinzle_Iglesias_Hauser_Sebold_Manjaly_Pruessmann.pdf",
+    "full_text_read": false,
+    "pages": 17,
+    "status": "PDF_VALIDATED_TEXT_LOCATORS",
+    "sha256": "911a3c5e5cb86bf9384ef2dbb3686cba993d11c85d57803f8b58ef3cf88de504",
+    "bytes": 6933405,
+    "evidence_pages": [
+      {
+        "page_one_based": 1,
+        "keyword_hits": [
+          "RETROICOR",
+          "quality"
+        ]
+      },
+      {
+        "page_one_based": 2,
+        "keyword_hits": [
+          "RETROICOR"
+        ]
+      },
+      {
+        "page_one_based": 3,
+        "keyword_hits": [
+          "synchron",
+          "quality"
+        ]
+      },
+      {
+        "page_one_based": 4,
+        "keyword_hits": [
+          "synchron",
+          "quality"
+        ]
+      },
+      {
+        "page_one_based": 5,
+        "keyword_hits": [
+          "quality"
+        ]
+      },
+      {
+        "page_one_based": 7,
+        "keyword_hits": [
+          "quality"
+        ]
+      },
+      {
+        "page_one_based": 8,
+        "keyword_hits": [
+          "RETROICOR",
+          "quality"
+        ]
+      },
+      {
+        "page_one_based": 9,
+        "keyword_hits": [
+          "RETROICOR",
+          "quality"
+        ]
+      },
+      {
+        "page_one_based": 11,
+        "keyword_hits": [
+          "RETROICOR"
+        ]
+      },
+      {
+        "page_one_based": 12,
+        "keyword_hits": [
+          "RETROICOR",
+          "quality"
+        ]
+      },
+      {
+        "page_one_based": 13,
+        "keyword_hits": [
+          "RETROICOR",
+          "quality"
+        ]
+      },
+      {
+        "page_one_based": 14,
+        "keyword_hits": [
+          "RETROICOR",
+          "synchron",
+          "quality"
+        ]
+      },
+      {
+        "page_one_based": 15,
+        "keyword_hits": [
+          "RETROICOR",
+          "quality"
+        ]
+      },
+      {
+        "page_one_based": 16,
+        "keyword_hits": [
+          "RETROICOR",
+          "quality"
+        ]
+      }
+    ],
+    "review": "Selected full pages read: workflow, synchronization and recording QA; remaining pages not systematically audited",
+    "reviewed_pages": [
+      3,
+      4
+    ]
+  },
+  {
+    "name": "aomic",
+    "url": "https://www.nature.com/articles/s41597-021-00870-6.pdf",
+    "full_text_read": false,
+    "pages": 23,
+    "status": "PDF_VALIDATED_TEXT_LOCATORS",
+    "sha256": "4f676084647ad38e98684e00e13b2e4bcd98519d133d7296202adf7ba15a0921",
+    "bytes": 4115116,
+    "evidence_pages": [
+      {
+        "page_one_based": 1,
+        "keyword_hits": [
+          "physiolog",
+          "OpenNeuro"
+        ]
+      },
+      {
+        "page_one_based": 2,
+        "keyword_hits": [
+          "physiolog"
+        ]
+      },
+      {
+        "page_one_based": 3,
+        "keyword_hits": [
+          "physiolog",
+          "OpenNeuro"
+        ]
+      },
+      {
+        "page_one_based": 10,
+        "keyword_hits": [
+          "physiolog",
+          "OpenNeuro"
+        ]
+      },
+      {
+        "page_one_based": 11,
+        "keyword_hits": [
+          "physiolog"
+        ]
+      },
+      {
+        "page_one_based": 12,
+        "keyword_hits": [
+          "OpenNeuro"
+        ]
+      },
+      {
+        "page_one_based": 13,
+        "keyword_hits": [
+          "physiolog"
+        ]
+      },
+      {
+        "page_one_based": 14,
+        "keyword_hits": [
+          "OpenNeuro"
+        ]
+      },
+      {
+        "page_one_based": 15,
+        "keyword_hits": [
+          "physiolog"
+        ]
+      },
+      {
+        "page_one_based": 18,
+        "keyword_hits": [
+          "physiolog"
+        ]
+      },
+      {
+        "page_one_based": 19,
+        "keyword_hits": [
+          "physiolog"
+        ]
+      },
+      {
+        "page_one_based": 20,
+        "keyword_hits": [
+          "physiolog"
+        ]
+      },
+      {
+        "page_one_based": 21,
+        "keyword_hits": [
+          "physiolog",
+          "OpenNeuro"
+        ]
+      },
+      {
+        "page_one_based": 22,
+        "keyword_hits": [
+          "physiolog",
+          "OpenNeuro"
+        ]
+      },
+      {
+        "page_one_based": 23,
+        "keyword_hits": [
+          "OpenNeuro"
+        ]
+      }
+    ],
+    "review": "Selected full pages read: standardization, historical fMRIPrep 1.4.1 and dataset-specific metadata caveats; other pages not systematically audited",
+    "reviewed_pages": [
+      10,
+      21
+    ]
+  },
+  {
+    "name": "compcor_official_mirror",
+    "url": "https://fmri.ucsd.edu/tliu/pdf/behzadi07_compcor.pdf",
+    "status": "PDF_VALIDATED",
+    "pages": 12,
+    "sha256": "c8c5c470cbc0bf7f785e3464e6046ba720615236593dfd3362ed6095d4429141",
+    "bytes": 1606090,
+    "full_text_read": false,
+    "reviewed_pages": [
+      1,
+      2
+    ],
+    "review": "selected methods pages, not full-text systematic review"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "https://api.github.com/repos/OpenNeuroDatasets/ds003115",
+    "status": 404,
+    "scope": "supplemental metadata lookup"
+  },
+  {
+    "source": "ds000114 README at frozen git tree",
+    "status": 404,
+    "scope": "No README in dataset tree; authoritative dataset_description used"
+  }
+]

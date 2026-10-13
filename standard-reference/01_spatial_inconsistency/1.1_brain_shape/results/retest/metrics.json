@@ -1,0 +1,130 @@
+{
+  "input": "data/ds000114/sub-01/ses-retest/func/sub-01_ses-retest_task-fingerfootlips_bold.nii.gz",
+  "session": "retest",
+  "kind": "shape",
+  "tr_seconds": 2.5,
+  "n_input": 184,
+  "feature_scope": "128 deterministic voxels from estimated EPI mask, not full brain",
+  "before": {
+    "shape": [
+      184,
+      128
+    ],
+    "mean_abs": 1188.474312160326,
+    "median_sample_std": 37.16732411570946,
+    "q01": 179.0,
+    "q99": 1848.0
+  },
+  "production_pipeline": "NOT_RUN",
+  "scientific_best_method": "INSUFFICIENT_EVIDENCE",
+  "bold_geometry": {
+    "shape": [
+      64,
+      64,
+      30,
+      184
+    ],
+    "orientation": [
+      "L",
+      "A",
+      "S"
+    ],
+    "spacing_mm": [
+      3.999999997183861,
+      3.999999857818425,
+      3.9999644753281265
+    ],
+    "qform_code": 1,
+    "sform_code": 1,
+    "qform_sform_disagree": false,
+    "affine_ras_mm": [
+      [
+        -3.9941670894622803,
+        -0.21387556195259094,
+        -0.030091872438788414,
+        131.2411651611328
+      ],
+      [
+        -0.2149735540151596,
+        3.9901509284973145,
+        0.18016961216926575,
+        -102.3945083618164
+      ],
+      [
+        -0.02038651518523693,
+        -0.18152596056461334,
+        3.995791435241699,
+        -46.10886001586914
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ]
+  },
+  "t1_geometry": {
+    "shape": [
+      256,
+      156,
+      256
+    ],
+    "orientation": [
+      "R",
+      "A",
+      "S"
+    ],
+    "spacing_mm": [
+      0.9999999898184991,
+      1.2993759005260304,
+      1.0000000176917894
+    ],
+    "qform_code": 1,
+    "sform_code": 1,
+    "qform_sform_disagree": false,
+    "affine_ras_mm": [
+      [
+        0.9991319179534912,
+        -0.05162918195128441,
+        0.01251270156353712,
+        -125.26386260986328
+      ],
+      [
+        0.040772195905447006,
+        1.2920204401016235,
+        -0.09811791777610779,
+        -73.13301086425781
+      ],
+      [
+        -0.00854506902396679,
+        0.12804429233074188,
+        0.9950961470603943,
+        -177.55429077148438
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ]
+  },
+  "nonlinear_normalization": "NOT_RUN",
+  "anatomical_correspondence": "NOT_MEASURED",
+  "after": {
+    "shape": [
+      184,
+      128
+    ],
+    "mean_abs": 1188.474312160326,
+    "median_sample_std": 37.16732411570946,
+    "q01": 179.0,
+    "q99": 1848.0
+  },
+  "evidence_status": "REAL_DATA_INPUT_AUDIT_ONLY",
+  "limitations": [
+    "No template/skull stripping/nonlinear warp: geometry comparison is not anatomical normalization."
+  ],
+  "elapsed_seconds": 1.1693693340057507
+}

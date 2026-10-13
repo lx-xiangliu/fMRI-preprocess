@@ -1,0 +1,16 @@
+# 来源与版本
+
+检索日期：2026-10-12。软件 HEAD 的源码快照与已安装运行版本分开记录。
+
+- [NiBabel coordinate systems, orientations, processing APIs](https://nipy.org/nibabel/coordinate_systems.html)
+  - 官方代码 [nipy/nibabel](https://github.com/nipy/nibabel/tree/2f7c14298ab8f5cea66d0f2f89cd38eff6b3438c)；commit `2f7c14298ab8f5cea66d0f2f89cd38eff6b3438c`；最新release元数据 `5.4.1`；许可证 `NOASSERTION`。**元数据核实，不表示工具已运行**。
+- [AFNI 3dTproject / afni_proc.py documentation](https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dTproject.html)
+  - 官方代码 [afni/afni](https://github.com/afni/afni/tree/929a3750851dcc26df4d3f73ec036095f04233a8)；commit `929a3750851dcc26df4d3f73ec036095f04233a8`；最新release元数据 `None`；许可证 `NOASSERTION`。**元数据核实，不表示工具已运行**。
+- [FSL FLIRT / MCFLIRT documentation](https://fsl.fmrib.ox.ac.uk/fsl/docs/registration/index.html)
+  - 论文或官方规范/文档；不虚构对应软件commit。FSL由发行包/官方GitLab追踪，当前未安装，其软件版本和执行证据缺失。
+
+直接review范围与精确源码 URL 见根 `provenance/source_review_manifest.json`；未列入review的项目仅核实官方metadata/文档。数学示例是本仓库原创，并未复制上游代码。
+
+统一数据：[ds000114 1.0.2](https://openneuro.org/datasets/ds000114/versions/1.0.2)，CC0。源码/数据SHA及S3 VersionId见根provenance。
+
+论文证据页与PDF有效性见 `provenance/paper_manifest.json`；缺PDF不标记已阅读全文。

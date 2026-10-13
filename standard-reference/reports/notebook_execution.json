@@ -1,0 +1,330 @@
+[
+  {
+    "path": "01_spatial_inconsistency/1.2_brain_orientation/few_shots/01_test.ipynb",
+    "kind": "orientation",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+    "elapsed_seconds": 18.203049898147583
+  },
+  {
+    "path": "01_spatial_inconsistency/1.2_brain_orientation/few_shots/02_retest.ipynb",
+    "kind": "orientation",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+    "elapsed_seconds": 11.1626558303833
+  },
+  {
+    "path": "01_spatial_inconsistency/1.3_voxel_spacing/few_shots/01_test.ipynb",
+    "kind": "spacing",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+    "elapsed_seconds": 7.6263298988342285
+  },
+  {
+    "path": "01_spatial_inconsistency/1.3_voxel_spacing/few_shots/02_retest.ipynb",
+    "kind": "spacing",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+    "elapsed_seconds": 9.248315334320068
+  },
+  {
+    "path": "01_spatial_inconsistency/1.5_spatial_coordinates/few_shots/01_test.ipynb",
+    "kind": "coordinates",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+    "elapsed_seconds": 7.408349990844727
+  },
+  {
+    "path": "01_spatial_inconsistency/1.5_spatial_coordinates/few_shots/02_retest.ipynb",
+    "kind": "coordinates",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+    "elapsed_seconds": 10.321607828140259
+  },
+  {
+    "path": "02_temporal_inconsistency/2.1_repetition_time/few_shots/01_test.ipynb",
+    "kind": "tr",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+    "elapsed_seconds": 8.192953824996948
+  },
+  {
+    "path": "02_temporal_inconsistency/2.1_repetition_time/few_shots/02_retest.ipynb",
+    "kind": "tr",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+    "elapsed_seconds": 6.541579008102417
+  },
+  {
+    "path": "02_temporal_inconsistency/2.2_sampling_rate/few_shots/01_test.ipynb",
+    "kind": "sampling",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+    "elapsed_seconds": 6.073454856872559
+  },
+  {
+    "path": "02_temporal_inconsistency/2.2_sampling_rate/few_shots/02_retest.ipynb",
+    "kind": "sampling",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+    "elapsed_seconds": 6.207589864730835
+  },
+  {
+    "path": "02_temporal_inconsistency/2.3_time_points/few_shots/01_test.ipynb",
+    "kind": "points",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+    "elapsed_seconds": 5.92899489402771
+  },
+  {
+    "path": "02_temporal_inconsistency/2.3_time_points/few_shots/02_retest.ipynb",
+    "kind": "points",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+    "elapsed_seconds": 6.990002870559692
+  },
+  {
+    "path": "02_temporal_inconsistency/2.4_scan_duration/few_shots/01_test.ipynb",
+    "kind": "duration",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+    "elapsed_seconds": 5.943091154098511
+  },
+  {
+    "path": "02_temporal_inconsistency/2.4_scan_duration/few_shots/02_retest.ipynb",
+    "kind": "duration",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+    "elapsed_seconds": 6.575205087661743
+  },
+  {
+    "path": "03_artifacts_quality_control/3.1_head_motion_fd/few_shots/01_test.ipynb",
+    "kind": "motion",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_DIAGNOSTIC_ONLY",
+    "elapsed_seconds": 8.37251901626587
+  },
+  {
+    "path": "03_artifacts_quality_control/3.1_head_motion_fd/few_shots/02_retest.ipynb",
+    "kind": "motion",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_DIAGNOSTIC_ONLY",
+    "elapsed_seconds": 7.285610914230347
+  },
+  {
+    "path": "03_artifacts_quality_control/3.2_intensity_spikes_dvars/few_shots/01_test.ipynb",
+    "kind": "dvars",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+    "elapsed_seconds": 7.004861831665039
+  },
+  {
+    "path": "03_artifacts_quality_control/3.2_intensity_spikes_dvars/few_shots/02_retest.ipynb",
+    "kind": "dvars",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+    "elapsed_seconds": 6.271240949630737
+  },
+  {
+    "path": "03_artifacts_quality_control/3.3_nonsteady_short_segments/few_shots/01_test.ipynb",
+    "kind": "segments",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+    "elapsed_seconds": 8.173152923583984
+  },
+  {
+    "path": "03_artifacts_quality_control/3.3_nonsteady_short_segments/few_shots/02_retest.ipynb",
+    "kind": "segments",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+    "elapsed_seconds": 11.916306018829346
+  },
+  {
+    "path": "03_artifacts_quality_control/3.4_raw_residual_artifacts/few_shots/01_test.ipynb",
+    "kind": "artifacts",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+    "elapsed_seconds": 11.309262990951538
+  },
+  {
+    "path": "03_artifacts_quality_control/3.4_raw_residual_artifacts/few_shots/02_retest.ipynb",
+    "kind": "artifacts",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+    "elapsed_seconds": 10.389733076095581
+  },
+  {
+    "path": "03_artifacts_quality_control/3.5_brain_coverage_tsnr/few_shots/01_test.ipynb",
+    "kind": "coverage",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+    "elapsed_seconds": 7.7551751136779785
+  },
+  {
+    "path": "03_artifacts_quality_control/3.5_brain_coverage_tsnr/few_shots/02_retest.ipynb",
+    "kind": "coverage",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+    "elapsed_seconds": 7.301516056060791
+  },
+  {
+    "path": "03_artifacts_quality_control/3.7_physiological_noise/few_shots/01_test.ipynb",
+    "kind": "physio",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_DECOMPOSITION_ONLY",
+    "elapsed_seconds": 21.50212788581848
+  },
+  {
+    "path": "03_artifacts_quality_control/3.7_physiological_noise/few_shots/02_retest.ipynb",
+    "kind": "physio",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_DECOMPOSITION_ONLY",
+    "elapsed_seconds": 28.752184867858887
+  },
+  {
+    "path": "03_artifacts_quality_control/3.8_scanner_drift/few_shots/01_test.ipynb",
+    "kind": "drift",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+    "elapsed_seconds": 31.14046311378479
+  },
+  {
+    "path": "03_artifacts_quality_control/3.8_scanner_drift/few_shots/02_retest.ipynb",
+    "kind": "drift",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+    "elapsed_seconds": 15.351274967193604
+  },
+  {
+    "path": "03_artifacts_quality_control/3.9_wm_csf_confounds/few_shots/01_test.ipynb",
+    "kind": "compcor",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_DECOMPOSITION_ONLY",
+    "elapsed_seconds": 12.163319826126099
+  },
+  {
+    "path": "03_artifacts_quality_control/3.9_wm_csf_confounds/few_shots/02_retest.ipynb",
+    "kind": "compcor",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_DECOMPOSITION_ONLY",
+    "elapsed_seconds": 10.871429204940796
+  },
+  {
+    "path": "03_artifacts_quality_control/3.10_other_non_neural/few_shots/01_test.ipynb",
+    "kind": "components",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_DECOMPOSITION_ONLY",
+    "elapsed_seconds": 23.642280101776123
+  },
+  {
+    "path": "03_artifacts_quality_control/3.10_other_non_neural/few_shots/02_retest.ipynb",
+    "kind": "components",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_DECOMPOSITION_ONLY",
+    "elapsed_seconds": 14.382469892501831
+  },
+  {
+    "path": "04_signal_scale_inconsistency/4.1_mean/few_shots/01_test.ipynb",
+    "kind": "mean",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+    "elapsed_seconds": 8.225856065750122
+  },
+  {
+    "path": "04_signal_scale_inconsistency/4.1_mean/few_shots/02_retest.ipynb",
+    "kind": "mean",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+    "elapsed_seconds": 21.69421696662903
+  },
+  {
+    "path": "04_signal_scale_inconsistency/4.2_variance/few_shots/01_test.ipynb",
+    "kind": "variance",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+    "elapsed_seconds": 9.416554927825928
+  },
+  {
+    "path": "04_signal_scale_inconsistency/4.2_variance/few_shots/02_retest.ipynb",
+    "kind": "variance",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+    "elapsed_seconds": 8.745455980300903
+  },
+  {
+    "path": "04_signal_scale_inconsistency/4.3_signal_amplitude/few_shots/01_test.ipynb",
+    "kind": "amplitude",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+    "elapsed_seconds": 20.625282049179077
+  },
+  {
+    "path": "04_signal_scale_inconsistency/4.3_signal_amplitude/few_shots/02_retest.ipynb",
+    "kind": "amplitude",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+    "elapsed_seconds": 19.784398794174194
+  },
+  {
+    "path": "04_signal_scale_inconsistency/4.4_dynamic_range/few_shots/01_test.ipynb",
+    "kind": "range",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+    "elapsed_seconds": 10.925676107406616
+  },
+  {
+    "path": "04_signal_scale_inconsistency/4.4_dynamic_range/few_shots/02_retest.ipynb",
+    "kind": "range",
+    "status": "EXECUTED",
+    "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+    "elapsed_seconds": 8.34889006614685
+  },
+  {
+    "path": "01_spatial_inconsistency/1.1_brain_shape/few_shots/01_test.ipynb",
+    "kind": "shape",
+    "status": "EXECUTED",
+    "python_executable": "/Users/liuxiang/fMRI-preprocess/standard-reference/.venv/bin/python",
+    "evidence_status": "REAL_DATA_INPUT_AUDIT_ONLY",
+    "elapsed_seconds": 11.403800010681152
+  },
+  {
+    "path": "01_spatial_inconsistency/1.1_brain_shape/few_shots/02_retest.ipynb",
+    "kind": "shape",
+    "status": "EXECUTED",
+    "python_executable": "/Users/liuxiang/fMRI-preprocess/standard-reference/.venv/bin/python",
+    "evidence_status": "REAL_DATA_INPUT_AUDIT_ONLY",
+    "elapsed_seconds": 12.392846822738647
+  },
+  {
+    "path": "01_spatial_inconsistency/1.4_spatial_resolution/few_shots/01_test.ipynb",
+    "kind": "resolution",
+    "status": "EXECUTED",
+    "python_executable": "/Users/liuxiang/fMRI-preprocess/standard-reference/.venv/bin/python",
+    "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+    "elapsed_seconds": 8.736611127853394
+  },
+  {
+    "path": "01_spatial_inconsistency/1.4_spatial_resolution/few_shots/02_retest.ipynb",
+    "kind": "resolution",
+    "status": "EXECUTED",
+    "python_executable": "/Users/liuxiang/fMRI-preprocess/standard-reference/.venv/bin/python",
+    "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+    "elapsed_seconds": 6.341758966445923
+  },
+  {
+    "path": "03_artifacts_quality_control/3.6_registration_exclusion/few_shots/01_test.ipynb",
+    "kind": "registration",
+    "status": "EXECUTED",
+    "python_executable": "/Users/liuxiang/fMRI-preprocess/standard-reference/.venv/bin/python",
+    "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+    "elapsed_seconds": 6.778602123260498
+  },
+  {
+    "path": "03_artifacts_quality_control/3.6_registration_exclusion/few_shots/02_retest.ipynb",
+    "kind": "registration",
+    "status": "EXECUTED",
+    "python_executable": "/Users/liuxiang/fMRI-preprocess/standard-reference/.venv/bin/python",
+    "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+    "elapsed_seconds": 6.430314064025879
+  }
+]

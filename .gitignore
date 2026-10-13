@@ -1,0 +1,17 @@
+# Local inputs, environments, caches and generated NIfTI intermediates.
+data/
+.venv/
+.venv-report/
+.jupyter/
+.runtime/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+*.egg-info/
+*.pyc
+*.nii
+*.nii.gz
+*.part
+.DS_Store
+standard-reference/provenance/reviewed_source/
+standard-reference/provenance/papers/

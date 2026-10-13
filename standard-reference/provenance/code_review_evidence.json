@@ -1,0 +1,58 @@
+[
+  {
+    "repository": "nilearn/nilearn",
+    "file": "nilearn/signal.py",
+    "lines": [
+      585,
+      625,
+      785,
+      850
+    ],
+    "finding": "Butterworth scrubbing interpolates before filtering then censors; signal and confounds filtered consistently. Cosine drift generated on full time axis.",
+    "commit": "c5f6c737c8fc610ceba5f3aaa797695a3e6476a5",
+    "url": "https://github.com/nilearn/nilearn/blob/c5f6c737c8fc610ceba5f3aaa797695a3e6476a5/nilearn/signal.py"
+  },
+  {
+    "repository": "nipy/nibabel",
+    "file": "nibabel/processing.py",
+    "lines": [
+      118,
+      184
+    ],
+    "finding": "resample_from_to computes inverse(from affine) @ target affine; estimates no anatomical registration.",
+    "commit": "2f7c14298ab8f5cea66d0f2f89cd38eff6b3438c",
+    "url": "https://github.com/nipy/nibabel/blob/2f7c14298ab8f5cea66d0f2f89cd38eff6b3438c/nibabel/processing.py"
+  },
+  {
+    "repository": "nipreps/fmriprep",
+    "file": "fmriprep/workflows/bold/confounds.py",
+    "lines": [
+      65,
+      87,
+      194,
+      214
+    ],
+    "finding": "mm/rad motion parameters; original/standardized DVARS distinct; nonsteady censor plus DCT before CompCor; anatomical ROI required.",
+    "commit": "21a490fb89acee54baca06dd0ca04a2297659e97",
+    "url": "https://github.com/nipreps/fmriprep/blob/21a490fb89acee54baca06dd0ca04a2297659e97/fmriprep/workflows/bold/confounds.py"
+  },
+  {
+    "repository": "nipreps/mriqc",
+    "file": "mriqc/qc/functional.py",
+    "lines": [
+      54,
+      81
+    ],
+    "finding": "Raw/standardized/voxel-standardized DVARS differ; MRIQC uses motion correction and intensity scale before calculation.",
+    "commit": "f61290947f6aa79e143e38e314bfd63c09d7384f",
+    "url": "https://github.com/nipreps/mriqc/blob/f61290947f6aa79e143e38e314bfd63c09d7384f/mriqc/qc/functional.py"
+  },
+  {
+    "repository": "nipy/nibabel",
+    "file": "nibabel/orientations.py",
+    "lines": [],
+    "finding": "Downloaded, not yet line-by-line reviewed; orientation semantics checked from official documentation.",
+    "commit": "2f7c14298ab8f5cea66d0f2f89cd38eff6b3438c",
+    "url": "https://github.com/nipy/nibabel/blob/2f7c14298ab8f5cea66d0f2f89cd38eff6b3438c/nibabel/orientations.py"
+  }
+]

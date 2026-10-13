@@ -1,0 +1,21 @@
+{
+  "interpreter": "/Users/liuxiang/fMRI-preprocess/standard-reference/.venv/bin/python",
+  "kernel": "fmri-reference",
+  "launch_directory": "/private/tmp",
+  "existing_environment_reused": true,
+  "all_cell_sources_preserved": true,
+  "code_cells": 14,
+  "embedded_figures": 13,
+  "notebook_errors": 0,
+  "elapsed_seconds": 23.185096979141235,
+  "project_tests": {
+    "passed": 59,
+    "warnings": 2,
+    "log": ".runtime/environment-pytest.log"
+  },
+  "pip_check_scope": "Existing .venv inherits global packages; the notebook is validated, not the complete inherited environment",
+  "unrelated_inherited_package_conflicts": [
+    "torchaudio requires a different torch version",
+    "Streamlit requires packaging<25 and pandas<3"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "repository": "scipy/scipy",
+  "url": "https://github.com/scipy/scipy",
+  "retrieved_utc": "2026-10-12T12:18:27Z",
+  "execution": "NOT_RUN",
+  "commit": "d1d4a8aa11723e6885f268a4106758d7917d5906",
+  "default_branch": "main",
+  "license": {
+    "key": "bsd-3-clause",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "spdx_id": "BSD-3-Clause",
+    "url": "https://api.github.com/licenses/bsd-3-clause",
+    "node_id": "MDc6TGljZW5zZTU="
+  },
+  "license_path": "LICENSE.txt",
+  "latest_release": "v1.18.1",
+  "status": "METADATA_VERIFIED"
+}
