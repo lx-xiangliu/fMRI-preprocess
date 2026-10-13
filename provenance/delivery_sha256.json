@@ -1,8 +1,6 @@
 {
   ".gitattributes": "d7139d65d3ec9ad3ab2ce43995da959c67a6842806f0fa183750b6989906bfcc",
-  ".github/workflows/fmri-reference.yml": "b375055bc34cd70c648dd6b8593ca449062ee0f63b471ce297d9836d6ba20cc6",
   ".gitignore": "107ede6d52cb43d578147043fe95aeaf3796f2f227d722f3928fcfa3dff3df79",
-  ".vscode/settings.json": "12d0838ff8b7eeaf2766d0343fa881cfe5512549ed65ea52cf2efc5be3a1244f",
   "01_spatial_inconsistency/1.1_brain_shape/README.md": "b2c1191f544cf8edb7b55be316c0993f4b53a2934a17a51a48bbdf751228ba44",
   "01_spatial_inconsistency/1.1_brain_shape/few_shots/01_test.ipynb": "37b02489d6a812c27baad5f89a8cfc64bd371d5b0a291ab884315bf206723154",
   "01_spatial_inconsistency/1.1_brain_shape/few_shots/02_retest.ipynb": "8617eef65b48b163a5ed055df7d1c451b0129cf8c0bcc658974c0f3ebd2afdd5",
@@ -278,7 +276,7 @@
   "reports/clean_environment_pytest.txt": "9624b11175b7b05a5e108ec574c34132f1bc174f36bc561c37691c6be1fc80bd",
   "reports/full_mask_qc.json": "530cf6d0a8d6d26960a7ee2d57069725a521b491b0b12642078773cbabc00024",
   "reports/notebook_execution.json": "729f89e22ca7acd0517c3a05f1bd71de6c445c55a2467380ba5123f72766f96e",
-  "reports/presentation/ENVIRONMENT.md": "ea9111f00a522c6b6221b27b0969d69024b3240d28bb1e39f3acbb2f2aa2e9a5",
+  "reports/presentation/ENVIRONMENT.md": "4c36bef065fb1d0fb0c08a52d56ac70ee9d35e1c2d66f3ce5e630ca83d75f708",
   "reports/presentation/environment_validation.json": "8d4d5109f818f6b8f2493afce589acfcc0f3548b87a18cdefd92e743ff574b7a",
   "reports/presentation/figures/01_multimodal_input.png": "246afe6d76b77f60dff76824fc727633b615e6c780fa74dd130e1f6ddecdc92e",
   "reports/presentation/figures/01b_task_context.png": "91d13cb7a57a01b0cc541280a6d9409b9cbd842b2487d886d40ceff9cc2d9686",

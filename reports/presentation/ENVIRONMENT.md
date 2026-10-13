@@ -4,7 +4,7 @@ Kernel: **Python (fMRI Project .venv)** (`fmri-reference`).
 
 Interpreter: `/Users/liuxiang/fMRI-preprocess/standard-reference/.venv/bin/python`.
 The environment already existed; no new Python environment is used. Notebook
-metadata and VS Code defaults point to it. The kernelspec supplies the repository
+metadata points to it. The kernelspec supplies the repository
 root and plotting-helper path, so launch-directory differences do not break imports.
 
 Reopen the notebook after configuration. If the editor retains an earlier kernel
