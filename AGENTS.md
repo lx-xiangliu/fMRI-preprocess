@@ -13,4 +13,4 @@
 - 阈值、频带、模板、处理顺序、mask和剔除规则在结果前固定。split按subject隔离；normalization拟合不能查看测试数据。
 - 实测数学性质、真实数据演示、正式pipeline、科学最优结论四层必须独立报告。NOT_RUN/NOT_MEASURED/REVIEW_REQUIRED不能填零或改写为PASS。
 - 源码与环境锁定分别看provenance/software.json、installed_versions.json、requirements-lock.txt、environment-freeze.txt。上游HEAD metadata不是执行版本。
-- 运行python -m pytest -q以及python scripts/run_notebooks.py；新改动需按其科学风险验证。不要改动父仓库已暂存删除文件。
+- 运行python -m pytest -q以及python scripts/run_notebooks.py；新改动需按其科学风险验证。保留用户已有的未提交改动；本目录是 Git 仓库根目录。
