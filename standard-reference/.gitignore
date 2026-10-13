@@ -1,0 +1,12 @@
+data/
+.venv/
+.jupyter/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+*.egg-info/
+provenance/reviewed_source/
+provenance/papers/
+**/results/**/*.nii.gz
+*.part
+.DS_Store

@@ -1,0 +1,27 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/nipy/nibabel/2f7c14298ab8f5cea66d0f2f89cd38eff6b3438c/nibabel/processing.py",
+    "status": 200,
+    "sha256": "73c3a72cb96e05a5a574435a4a928509f0f8df4937c328c3ef5e57d0f9faa38c"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/nipy/nibabel/2f7c14298ab8f5cea66d0f2f89cd38eff6b3438c/nibabel/orientations.py",
+    "status": 200,
+    "sha256": "9ba33b42f4b898243f520b6267c54ba87d37c2f21f72ccd9b13591eafdc863f8"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/nilearn/nilearn/c5f6c737c8fc610ceba5f3aaa797695a3e6476a5/nilearn/signal.py",
+    "status": 200,
+    "sha256": "be725e1b4f177d7a2408cd01d3be990ee8ea953ddeb8e07af9d5d17c859930f6"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/nipreps/fmriprep/21a490fb89acee54baca06dd0ca04a2297659e97/fmriprep/workflows/bold/confounds.py",
+    "status": 200,
+    "sha256": "c05ed89ea05886eb81624d74f53c3db361f38066d7ba6e813f7f9fe1716d964f"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/nipreps/mriqc/f61290947f6aa79e143e38e314bfd63c09d7384f/mriqc/qc/functional.py",
+    "status": 200,
+    "sha256": "4db65967b0430b8b7db2d1cd1c97319aeb9d49530f2d6e4e6c094971badfc322"
+  }
+]

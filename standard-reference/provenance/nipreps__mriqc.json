@@ -1,0 +1,18 @@
+{
+  "repository": "nipreps/mriqc",
+  "url": "https://github.com/nipreps/mriqc",
+  "retrieved_utc": "2026-10-12T12:18:28Z",
+  "execution": "NOT_RUN",
+  "commit": "f61290947f6aa79e143e38e314bfd63c09d7384f",
+  "default_branch": "master",
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "license_path": "LICENSE",
+  "latest_release": "24.0.2",
+  "status": "METADATA_VERIFIED"
+}

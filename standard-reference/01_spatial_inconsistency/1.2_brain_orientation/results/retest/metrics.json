@@ -1,0 +1,126 @@
+{
+  "input": "data/ds000114/sub-01/ses-retest/func/sub-01_ses-retest_task-fingerfootlips_bold.nii.gz",
+  "session": "retest",
+  "kind": "orientation",
+  "tr_seconds": 2.5,
+  "n_input": 184,
+  "feature_scope": "128 deterministic voxels from estimated EPI mask, not full brain",
+  "before": {
+    "shape": [
+      184,
+      128
+    ],
+    "mean_abs": 1188.474312160326,
+    "median_sample_std": 37.16732411570946,
+    "q01": 179.0,
+    "q99": 1848.0
+  },
+  "production_pipeline": "NOT_RUN",
+  "scientific_best_method": "INSUFFICIENT_EVIDENCE",
+  "before_geometry": {
+    "shape": [
+      64,
+      64,
+      30
+    ],
+    "orientation": [
+      "L",
+      "A",
+      "S"
+    ],
+    "spacing_mm": [
+      3.999999997183861,
+      3.999999857818425,
+      3.9999644753281265
+    ],
+    "qform_code": 1,
+    "sform_code": 1,
+    "qform_sform_disagree": false,
+    "affine_ras_mm": [
+      [
+        -3.9941670894622803,
+        -0.21387556195259094,
+        -0.030091872438788414,
+        131.2411651611328
+      ],
+      [
+        -0.2149735540151596,
+        3.9901509284973145,
+        0.18016961216926575,
+        -102.3945083618164
+      ],
+      [
+        -0.02038651518523693,
+        -0.18152596056461334,
+        3.995791435241699,
+        -46.10886001586914
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ]
+  },
+  "after_geometry": {
+    "shape": [
+      64,
+      64,
+      30
+    ],
+    "orientation": [
+      "R",
+      "A",
+      "S"
+    ],
+    "spacing_mm": [
+      3.999999997183861,
+      3.999999857818425,
+      3.9999644753281265
+    ],
+    "qform_code": 0,
+    "sform_code": 2,
+    "qform_sform_disagree": false,
+    "affine_ras_mm": [
+      [
+        3.9941670894622803,
+        -0.21387556195259094,
+        -0.030091872438788414,
+        -120.39136147499084
+      ],
+      [
+        0.2149735540151596,
+        3.9901509284973145,
+        0.18016961216926575,
+        -115.93784226477146
+      ],
+      [
+        0.02038651518523693,
+        -0.18152596056461334,
+        3.995791435241699,
+        -47.39321047253907
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ]
+  },
+  "inverse_reorientation_max_error": 0.0,
+  "after": {
+    "shape": [
+      184,
+      128
+    ],
+    "mean_abs": 1188.474312160326,
+    "median_sample_std": 37.16732411570946,
+    "q01": 179.0,
+    "q99": 1848.0
+  },
+  "evidence_status": "REAL_DATA_PRIMITIVE_EXECUTED",
+  "limitations": [],
+  "elapsed_seconds": 0.7347804579767399
+}

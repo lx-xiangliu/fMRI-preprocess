@@ -1,0 +1,287 @@
+[
+  {
+    "repository": "nipy/nibabel",
+    "url": "https://github.com/nipy/nibabel",
+    "retrieved_utc": "2026-10-12T12:18:27Z",
+    "execution": "NOT_RUN",
+    "commit": "2f7c14298ab8f5cea66d0f2f89cd38eff6b3438c",
+    "default_branch": "master",
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "spdx_id": "NOASSERTION",
+      "url": null,
+      "node_id": "MDc6TGljZW5zZTA="
+    },
+    "license_path": "COPYING",
+    "latest_release": "5.4.1",
+    "status": "METADATA_VERIFIED"
+  },
+  {
+    "repository": "nilearn/nilearn",
+    "url": "https://github.com/nilearn/nilearn",
+    "retrieved_utc": "2026-10-12T12:18:27Z",
+    "execution": "NOT_RUN",
+    "commit": "c5f6c737c8fc610ceba5f3aaa797695a3e6476a5",
+    "default_branch": "main",
+    "license": {
+      "key": "bsd-3-clause",
+      "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+      "spdx_id": "BSD-3-Clause",
+      "url": "https://api.github.com/licenses/bsd-3-clause",
+      "node_id": "MDc6TGljZW5zZTU="
+    },
+    "license_path": "LICENSE",
+    "latest_release": "0.14.1",
+    "status": "METADATA_VERIFIED"
+  },
+  {
+    "repository": "scipy/scipy",
+    "url": "https://github.com/scipy/scipy",
+    "retrieved_utc": "2026-10-12T12:18:27Z",
+    "execution": "NOT_RUN",
+    "commit": "d1d4a8aa11723e6885f268a4106758d7917d5906",
+    "default_branch": "main",
+    "license": {
+      "key": "bsd-3-clause",
+      "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+      "spdx_id": "BSD-3-Clause",
+      "url": "https://api.github.com/licenses/bsd-3-clause",
+      "node_id": "MDc6TGljZW5zZTU="
+    },
+    "license_path": "LICENSE.txt",
+    "latest_release": "v1.18.1",
+    "status": "METADATA_VERIFIED"
+  },
+  {
+    "repository": "nipreps/fmriprep",
+    "url": "https://github.com/nipreps/fmriprep",
+    "retrieved_utc": "2026-10-12T12:18:27Z",
+    "execution": "NOT_RUN",
+    "commit": "21a490fb89acee54baca06dd0ca04a2297659e97",
+    "default_branch": "master",
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI="
+    },
+    "license_path": "LICENSE",
+    "latest_release": "25.2.5",
+    "status": "METADATA_VERIFIED"
+  },
+  {
+    "repository": "nipreps/mriqc",
+    "url": "https://github.com/nipreps/mriqc",
+    "retrieved_utc": "2026-10-12T12:18:28Z",
+    "execution": "NOT_RUN",
+    "commit": "f61290947f6aa79e143e38e314bfd63c09d7384f",
+    "default_branch": "master",
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI="
+    },
+    "license_path": "LICENSE",
+    "latest_release": "24.0.2",
+    "status": "METADATA_VERIFIED"
+  },
+  {
+    "repository": "ANTsX/ANTs",
+    "url": "https://github.com/ANTsX/ANTs",
+    "retrieved_utc": "2026-10-12T12:18:28Z",
+    "execution": "NOT_RUN",
+    "commit": "4da25673be4a6f54831138aaf11329d0189bd5a0",
+    "default_branch": "main",
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI="
+    },
+    "license_path": "COPYING.txt",
+    "latest_release": "v2.6.5",
+    "status": "METADATA_VERIFIED"
+  },
+  {
+    "repository": "ANTsX/ANTsPy",
+    "url": "https://github.com/ANTsX/ANTsPy",
+    "retrieved_utc": "2026-10-12T12:18:29Z",
+    "execution": "NOT_RUN",
+    "commit": "01a50724d8db48f8d58c24483160add1c9447f6b",
+    "default_branch": "main",
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI="
+    },
+    "license_path": "LICENSE",
+    "latest_release": "v0.6.3",
+    "status": "METADATA_VERIFIED"
+  },
+  {
+    "repository": "afni/afni",
+    "url": "https://github.com/afni/afni",
+    "retrieved_utc": "2026-10-12T12:18:29Z",
+    "execution": "NOT_RUN",
+    "commit": "929a3750851dcc26df4d3f73ec036095f04233a8",
+    "default_branch": "master",
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "spdx_id": "NOASSERTION",
+      "url": null,
+      "node_id": "MDc6TGljZW5zZTA="
+    },
+    "license_path": "LICENSE.txt",
+    "latest_release": null,
+    "status": "METADATA_VERIFIED"
+  },
+  {
+    "repository": "spm/spm",
+    "url": "https://github.com/spm/spm",
+    "retrieved_utc": "2026-10-12T12:18:30Z",
+    "execution": "NOT_RUN",
+    "commit": "b1638b574a9cd7f1767b3aa72485ddef2e55c060",
+    "default_branch": "main",
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg="
+    },
+    "license_path": "LICENCE",
+    "latest_release": "25.01.02",
+    "status": "METADATA_VERIFIED"
+  },
+  {
+    "repository": "nipreps/fmripost-aroma",
+    "url": "https://github.com/nipreps/fmripost-aroma",
+    "retrieved_utc": "2026-10-12T12:18:30Z",
+    "execution": "NOT_RUN",
+    "commit": "96a89a22b5213dfb7c7fb4f5c21d2c03fe835819",
+    "default_branch": "main",
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI="
+    },
+    "license_path": "LICENSE",
+    "latest_release": "0.0.12",
+    "status": "METADATA_VERIFIED"
+  },
+  {
+    "repository": "ME-ICA/tedana",
+    "url": "https://github.com/ME-ICA/tedana",
+    "retrieved_utc": "2026-10-12T12:18:30Z",
+    "execution": "NOT_RUN",
+    "commit": "1f433185fec67af2ef32529f3ac2b2ce5c9cbc90",
+    "default_branch": "main",
+    "license": {
+      "key": "lgpl-2.1",
+      "name": "GNU Lesser General Public License v2.1",
+      "spdx_id": "LGPL-2.1",
+      "url": "https://api.github.com/licenses/lgpl-2.1",
+      "node_id": "MDc6TGljZW5zZTEx"
+    },
+    "license_path": "LICENSE",
+    "latest_release": "26.0.3",
+    "status": "METADATA_VERIFIED"
+  },
+  {
+    "repository": "translationalneuromodeling/tapas",
+    "url": "https://github.com/translationalneuromodeling/tapas",
+    "retrieved_utc": "2026-10-12T12:18:30Z",
+    "execution": "NOT_RUN",
+    "commit": "7155f99137c5e03f93a2a3afa6a8cb54c75dd4c2",
+    "default_branch": "master",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "license_path": "LICENSE",
+    "latest_release": "v6.1.0",
+    "status": "METADATA_VERIFIED"
+  },
+  {
+    "repository": "FCP-INDI/C-PAC",
+    "url": "https://github.com/FCP-INDI/C-PAC",
+    "retrieved_utc": "2026-10-12T12:18:33Z",
+    "execution": "NOT_RUN",
+    "commit": "96db8b0b65ab1d5f55fb3b895855af34d72c17e4",
+    "default_branch": "main",
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy"
+    },
+    "license_path": "COPYING",
+    "latest_release": "v1.8.7",
+    "status": "METADATA_VERIFIED"
+  },
+  {
+    "repository": "SimpleITK/SimpleITK",
+    "url": "https://github.com/SimpleITK/SimpleITK",
+    "execution": "SOURCE_NOT_EXECUTED",
+    "commit": "d841125671ca77c02e911af315111f7afd55fa1b",
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI="
+    },
+    "latest_release": "v2.5.6",
+    "status": "METADATA_VERIFIED",
+    "archived": false
+  },
+  {
+    "repository": "ComputationalPsychiatry/PhysIO",
+    "url": "https://github.com/ComputationalPsychiatry/PhysIO",
+    "execution": "SOURCE_NOT_EXECUTED",
+    "status": "GIT_HEAD_VERIFIED",
+    "error": "403 Client Error: rate limit exceeded for url: https://api.github.com/repos/ComputationalPsychiatry/PhysIO",
+    "commit": "e2eb1db992871fef6c9a2e45965700f5cd957fe5",
+    "commit_verification": "git ls-remote official repository HEAD, 2026-10-12",
+    "license": {
+      "spdx_id": "GPL-3.0",
+      "source": "official repository LICENSE"
+    },
+    "latest_release": "NOT_VERIFIED"
+  },
+  {
+    "repository": "Washington-University/Pipelines",
+    "url": "https://github.com/Washington-University/Pipelines",
+    "execution": "NOT_RUN",
+    "commit": "6d695803a342f51660a381f703d0e22b2ffe4779",
+    "status": "GIT_HEAD_VERIFIED",
+    "latest_release": "NOT_VERIFIED"
+  },
+  {
+    "repository": "PennLINC/xcp_d",
+    "url": "https://github.com/PennLINC/xcp_d",
+    "execution": "NOT_RUN",
+    "commit": "5c12e17e81266eedbb51fb668ef0ab45f0a632e8",
+    "status": "GIT_HEAD_VERIFIED",
+    "latest_release": "NOT_VERIFIED",
+    "license_url": "https://raw.githubusercontent.com/PennLINC/xcp_d/5c12e17e81266eedbb51fb668ef0ab45f0a632e8/LICENSE",
+    "license_sha256": "52d47b8fa24b497a27924a5e787ccfa78365088f7673501466fb8033e26fc34d",
+    "license": {
+      "spdx_id": "UNKNOWN_REVIEW_REQUIRED"
+    }
+  }
+]

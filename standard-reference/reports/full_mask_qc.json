@@ -1,0 +1,28 @@
+[
+  {
+    "session": "test",
+    "n_voxels": 17210,
+    "n_volumes": 184,
+    "raw_dvars_median": 25.46557987323418,
+    "raw_tsnr_median": 28.21232242854233,
+    "dvars_vectorized_max_error": 0.0,
+    "tsnr_vectorized_max_error": 3.0411229090532288e-12,
+    "elapsed_seconds_uncompressed_stream": 0.16239191603381187,
+    "mask_scope": "Full estimated EPI mask, NOT verified anatomical coverage",
+    "mature_pipeline": "NOT_RUN",
+    "fd": "NOT_MEASURED"
+  },
+  {
+    "session": "retest",
+    "n_voxels": 17258,
+    "n_volumes": 184,
+    "raw_dvars_median": 31.57971901993657,
+    "raw_tsnr_median": 36.20704325864957,
+    "dvars_vectorized_max_error": 0.0,
+    "tsnr_vectorized_max_error": 5.4001247917767614e-12,
+    "elapsed_seconds_uncompressed_stream": 0.1292175410198979,
+    "mask_scope": "Full estimated EPI mask, NOT verified anatomical coverage",
+    "mature_pipeline": "NOT_RUN",
+    "fd": "NOT_MEASURED"
+  }
+]

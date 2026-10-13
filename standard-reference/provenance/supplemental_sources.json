@@ -1,0 +1,69 @@
+[
+  {
+    "dataset": "ds003114",
+    "landing_url": "https://openneuro.org/datasets/ds003114",
+    "downloaded_samples": false,
+    "status": "OFFICIAL_METADATA_VERIFIED",
+    "metadata_url": "https://s3.amazonaws.com/openneuro.org/ds003114/dataset_description.json",
+    "description": {
+      "Authors": [
+        "Jia-Xi Wang",
+        "Jin-Ying Zhuang",
+        "Lulu Fu",
+        "Lei Qin"
+      ],
+      "BIDSVersion": "1.0.1",
+      "DatasetDOI": "10.18112/openneuro.ds003114.v1.0.1",
+      "Funding": [
+        "National Natural Science Foundation"
+      ],
+      "License": "CC0",
+      "Name": "How ovarian hormones influence the behaviroal activation and inhibition system through the dopamine pathway",
+      "ReferencesAndLinks": [
+        "Citation: Wang J-X, Zhuang J-Y, Fu L, Lei Q, Fan M, Zhang W (2020) How ovarian hormones influence the behavioral activation and inhibition system through the dopamine pathway. PLoS ONE 15(8): e0237032. https://doi.org/10.1371/journal.pone.0237032"
+      ],
+      "HowToAcknowledge": "Please cite as: Wang J-X, Zhuang J-Y, Fu L, Lei Q, Fan M, Zhang W (2020) How ovarian hormones influence the behavioral activation and inhibition system through the dopamine pathway. PLoS ONE 15(8): e0237032. https://doi.org/10.1371/journal.pone.0237032"
+    },
+    "version_id": "baEuM8QckuxVg5qZAJTJjdiPFCtR9xCw",
+    "file_inventory_status": 200,
+    "inventory_excerpt": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<ListBucketResult xmlns=\"http://s3.amazonaws.com/doc/2006-03-01/\"><Name>openneuro.org</Name><Prefix>ds003114/sub-0001/func/</Prefix><KeyCount>0</KeyCount><MaxKeys>30</MaxKeys><IsTruncated>false</IsTruncated></ListBucketResult>"
+  },
+  {
+    "dataset": "ds003115",
+    "landing_url": "https://openneuro.org/datasets/ds003115",
+    "downloaded_samples": false,
+    "status": "FAILED",
+    "error": "404 Client Error: Not Found for url: https://s3.amazonaws.com/openneuro.org/ds003115/dataset_description.json"
+  },
+  {
+    "dataset": "ds003592",
+    "landing_url": "https://openneuro.org/datasets/ds003592",
+    "downloaded_samples": false,
+    "status": "OFFICIAL_METADATA_VERIFIED",
+    "metadata_url": "https://s3.amazonaws.com/openneuro.org/ds003592/dataset_description.json",
+    "description": {
+      "Name": "Neurocognitive aging data release with behavioral, structural, and multi-echo functional MRI measures",
+      "BIDSVersion": "1.0.2",
+      "License": "CC0",
+      "Authors": [
+        "R. Nathan Spreng",
+        "Roni Setton",
+        "Udi Alter",
+        "Benjamin N. Cassidy",
+        "Bri Darboh",
+        "Elizabeth DuPre",
+        "Karin Kantarovich",
+        "Amber W. Lockrow",
+        "Laetitia Mwilambwe-Tshilobo",
+        "Wen-Ming Luh",
+        "Prantik Kundu",
+        "Gary R. Turner"
+      ],
+      "DatasetDOI": "doi:10.18112/openneuro.ds003592.v1.0.9",
+      "ReferencesAndLinks": []
+    },
+    "version_id": "_DUa7ddezAt7gbNf7DTGRRflQa8Jo7xl",
+    "file_inventory_status": 200,
+    "inventory_excerpt": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<ListBucketResult xmlns=\"http://s3.amazonaws.com/doc/2006-03-01/\"><Name>openneuro.org</Name><Prefix>ds003592/sub-0001/func/</Prefix><KeyCount>0</KeyCount><MaxKeys>30</MaxKeys><IsTruncated>false</IsTruncated></ListBucketResult>"
+  }
+]

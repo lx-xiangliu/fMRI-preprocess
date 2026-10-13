@@ -1,0 +1,18 @@
+{
+  "repository": "afni/afni",
+  "url": "https://github.com/afni/afni",
+  "retrieved_utc": "2026-10-12T12:18:29Z",
+  "execution": "NOT_RUN",
+  "commit": "929a3750851dcc26df4d3f73ec036095f04233a8",
+  "default_branch": "master",
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": "NOASSERTION",
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "license_path": "LICENSE.txt",
+  "latest_release": null,
+  "status": "METADATA_VERIFIED"
+}

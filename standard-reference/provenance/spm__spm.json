@@ -1,0 +1,18 @@
+{
+  "repository": "spm/spm",
+  "url": "https://github.com/spm/spm",
+  "retrieved_utc": "2026-10-12T12:18:30Z",
+  "execution": "NOT_RUN",
+  "commit": "b1638b574a9cd7f1767b3aa72485ddef2e55c060",
+  "default_branch": "main",
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "license_path": "LICENCE",
+  "latest_release": "25.01.02",
+  "status": "METADATA_VERIFIED"
+}
